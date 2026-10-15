@@ -1,0 +1,29 @@
+# Dependencias y artefactos
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Variables de entorno locales (Constitución 5.3)
+.env
+.env.local
+.env.*.local
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+
+# Agentes de IA (cada quien usa el suyo)
+.gemini/
+GEMINI.md
+.claude/
+CLAUDE.md
+.copilot/
+.cursor/
+.kiro/
