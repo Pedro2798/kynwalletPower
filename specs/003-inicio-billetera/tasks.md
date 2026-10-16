@@ -67,4 +67,4 @@ Probar datos, luego contenido/acceso, seguridad de sesión y controles. Rojo ant
 
 - [x] T020 Comparar capas, composición, puertos, estado, componentes y herramientas con el commit original; registrar resultados en specs/003-inicio-billetera/architecture-review.md.
 - [x] T021 Alinear el modelo de Registro con Login en src/domain/registration.ts, src/domain/messages.ts y src/domain/validation.ts; ajustar imports y conservar las pruebas de comportamiento en verde antes y después.
-- [ ] T022 Ejecutar Verify completo y revisar exclusiones y staged diff; crear commit y push normal a origin/feature/registro-pedro-gandola con la autorización del usuario, dejando el PR para el paso posterior; registrar evidencia en specs/003-inicio-billetera/verification.md y harness/sdd/inicio-billetera-log.md.
+- [x] T022 Ejecutar Verify completo y revisar exclusiones y staged diff; crear commit y push normal a origin/feature/registro-pedro-gandola con la autorización del usuario, dejando el PR para el paso posterior; registrar evidencia en specs/003-inicio-billetera/verification.md y harness/sdd/inicio-billetera-log.md.
